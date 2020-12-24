@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odoo.Net", "Odoo.Net\Odoo.Net.csproj", "{04B66F73-BA5A-43D2-8F74-0575C8F24370}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odoo.Extensions.System", "Odoo.Extensions.System\Odoo.Extensions.System.csproj", "{42F1DCE4-688B-4D98-AD30-C5B7DB43CD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odoo.Net.xUnit", "Odoo.Net.xUnit\Odoo.Net.xUnit.csproj", "{C29B2AE1-91E1-4ED4-953B-1FF81255F448}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B66F73-BA5A-43D2-8F74-0575C8F24370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B66F73-BA5A-43D2-8F74-0575C8F24370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B66F73-BA5A-43D2-8F74-0575C8F24370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B66F73-BA5A-43D2-8F74-0575C8F24370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F1DCE4-688B-4D98-AD30-C5B7DB43CD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F1DCE4-688B-4D98-AD30-C5B7DB43CD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F1DCE4-688B-4D98-AD30-C5B7DB43CD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F1DCE4-688B-4D98-AD30-C5B7DB43CD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29B2AE1-91E1-4ED4-953B-1FF81255F448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29B2AE1-91E1-4ED4-953B-1FF81255F448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29B2AE1-91E1-4ED4-953B-1FF81255F448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29B2AE1-91E1-4ED4-953B-1FF81255F448}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E96EED8-1D20-450A-9B0E-BEDB63189CFE}
+	EndGlobalSection
+EndGlobal
